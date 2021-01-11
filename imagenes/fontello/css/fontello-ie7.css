@@ -1,0 +1,21 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+ 
+  /* fix buttons height */
+  line-height: 1em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+ 
+.icon-doc-text { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe05e;&nbsp;'); }
+.icon-ok { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe105;&nbsp;'); }
+.icon-chat { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf03d;&nbsp;'); }
+.icon-whatsapp { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf232;&nbsp;'); }
+.icon-industry { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf275;&nbsp;'); }
+.icon-american-sign-language-interpreting { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2a3;&nbsp;'); }
+.icon-handshake-o { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b5;&nbsp;'); }
+.icon-credit-card { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x1f4b3;&nbsp;'); }
+.icon-truck { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x1f69a;&nbsp;'); }

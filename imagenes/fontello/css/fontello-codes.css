@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+ 
+.icon-doc-text:before { content: '\e05e'; } /* '' */
+.icon-ok:before { content: '\e105'; } /* '' */
+.icon-chat:before { content: '\f03d'; } /* '' */
+.icon-whatsapp:before { content: '\f232'; } /* '' */
+.icon-industry:before { content: '\f275'; } /* '' */
+.icon-american-sign-language-interpreting:before { content: '\f2a3'; } /* '' */
+.icon-handshake-o:before { content: '\f2b5'; } /* '' */
+.icon-credit-card:before { content: '💳'; } /* '\1f4b3' */
+.icon-truck:before { content: '🚚'; } /* '\1f69a' */

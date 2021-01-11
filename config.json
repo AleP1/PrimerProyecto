@@ -1,0 +1,100 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9d3e9faf68fd4e12def853f0d4e1173b",
+      "css": "whatsapp",
+      "code": 62002,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a8ed7903f8f548da5a8084e1773f0bbb",
+      "css": "chat",
+      "code": 61501,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "7f3d8ff1d5f6ee019f0c00ed7a86caec",
+      "css": "truck",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ecc56ff0652abe04c23b4f5d736ed506",
+      "css": "american-sign-language-interpreting",
+      "code": 62115,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "31efa81b26fa5a380119c95d6b831d6d",
+      "css": "industry",
+      "code": 62069,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9fecfcfe680a469caedeeb40641a479f",
+      "css": "handshake-o",
+      "code": 62133,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "43fl9m553j1z5937vfjz0lgolrlspxwl",
+      "css": "ok",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "c5cd6ea1981cecdd85c42d9d209bc3b8",
+      "css": "credit-card",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "6a06892e76b81e023da6ddfb38a26b37",
+      "css": "doc-text",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "ccddff8e8670dcd130e3cb55fdfc2fd0",
+      "css": "down-open",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4743b088aa95d6f3b6b990e770d3b647",
+      "css": "facebook-squared",
+      "code": 62216,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0d08dbb1dd648a43bdea81b7e6c9e036",
+      "css": "location",
+      "code": 59399,
+      "src": "fontawesome"
+    }
+  ]
+}
